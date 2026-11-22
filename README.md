@@ -49,8 +49,4 @@ Tema: **Destinasi wisata Indonesia**. Format: CSV UTF-8 dengan header.
 | 4 | Satu file besar berisi UI, data, dan file | Dipecah menjadi modul models/storage/services/validasi/ui | Modular, UI terpisah dari logika sehingga bisa di-unit-test |
 | 5 | Banyak parameter filter yang dituliskan satu per satu | Memakai `**kwargs` pada `filter_data` dan `*args` pada `hitung_total` | Fungsi fleksibel, mudah ditambah filter baru |
 
-## Checklist Laporan PDF
-1. Sampul: Nama, NPM, Prodi, Kelas, Judul.
-2. Link GitHub (Public) + link YouTube (5-10 menit).
-3. Penjelasan data (bagian "Data" di atas).
-4. Screenshot UI + screenshot hasil `python -m unittest -v`.
+
