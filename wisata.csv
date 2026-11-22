@@ -1,0 +1,19 @@
+id,nama,kategori,lokasi,harga_tiket,rating,jam_buka
+W001,Candi Borobudur,Budaya,Magelang - Jawa Tengah,50000,4.8,06:30-17:00
+W002,Pantai Kuta,Bahari,Badung - Bali,0,4.3,24 Jam
+W003,Kawah Putih,Alam,Bandung - Jawa Barat,28000,4.5,07:00-17:00
+W004,Taman Mini Indonesia Indah,Buatan,Jakarta Timur - DKI Jakarta,25000,4.4,08:00-17:00
+W005,Raja Ampat,Bahari,Raja Ampat - Papua Barat Daya,500000,4.9,08:00-17:00
+W006,Gunung Bromo,Alam,Probolinggo - Jawa Timur,35000,4.8,04:00-17:00
+W007,Keraton Yogyakarta,Budaya,Yogyakarta - DIY,15000,4.5,08:30-14:00
+W008,Danau Toba,Alam,Samosir - Sumatera Utara,10000,4.7,24 Jam
+W009,Pantai Pink,Bahari,Lombok Timur - NTB,10000,4.6,07:00-17:00
+W010,Jalan Malioboro,Kuliner,Yogyakarta - DIY,0,4.4,24 Jam
+W011,Pura Tanah Lot,Budaya,Tabanan - Bali,60000,4.6,07:00-19:00
+W012,Dunia Fantasi Ancol,Buatan,Jakarta Utara - DKI Jakarta,270000,4.2,10:00-18:00
+W013,Taman Nasional Komodo,Alam,Manggarai Barat - NTT,150000,4.9,07:00-17:00
+W014,Pantai Losari,Kuliner,Makassar - Sulawesi Selatan,0,4.3,24 Jam
+W015,Candi Prambanan,Budaya,Sleman - DIY,50000,4.7,06:30-17:00
+W016,Tebing Breksi,Alam,Sleman - DIY,10000,4.3,07:00-18:00
+W017,Kuliner Braga,Kuliner,Bandung - Jawa Barat,0,4.1,10:00-22:00
+W018,Trans Studio Bandung,Buatan,Bandung - Jawa Barat,300000,4.4,10:00-18:00
